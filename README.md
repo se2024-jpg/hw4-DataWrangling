@@ -19,8 +19,9 @@ Pipes allow inter-process communication by directing the output of one process t
 ### Example Pipe Usage:
 ```bash
 ls | wc -l
+```
 
-## Contributors
+### Contributors
 - Girish G N (ggopala4)
 - Joel Jogy George (jjgeorg2)
 - Pravallika Vasireddy (pvasire2)
