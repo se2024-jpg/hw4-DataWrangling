@@ -1,8 +1,8 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Linux Badge](https://img.shields.io/badge/Platform-Linux-green?style=flat&logo=linux)
-[![Task1](https://img.shields.io/badge/Task1-green)](https://github.com/se2024-jpg/hw2-debugging/actions/workflows/task1.yaml)
-[![Task2](https://img.shields.io/badge/Task2-green)](https://github.com/se2024-jpg/hw2-debugging/actions/workflows/task2.yaml)
-[![Task3](https://img.shields.io/badge/Task3-green)](https://github.com/se2024-jpg/hw2-debugging/actions/workflows/task3.yaml)
+[![Task1](https://img.shields.io/badge/Task1-green)](https://github.com/se2024-jpg/hw4-DataWrangling/actions/workflows/task1.yaml)
+[![Task2](https://img.shields.io/badge/Task2-green)](https://github.com/se2024-jpg/hw4-DataWrangling/actions/workflows/task2.yaml)
+[![Task3](https://img.shields.io/badge/Task3-green)](https://github.com/se2024-jpg/hw4-DataWrangling/actions/workflows/task3.yaml)
 
 # HW4-Data Wrangling
 
@@ -21,7 +21,7 @@ Pipes allow inter-process communication by directing the output of one process t
 ls | wc -l
 ```
 
-### Contributors
+## Contributors
 - Girish G N (ggopala4)
 - Joel Jogy George (jjgeorg2)
 - Pravallika Vasireddy (pvasire2)
