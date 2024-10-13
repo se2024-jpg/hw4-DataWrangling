@@ -1,8 +1,5 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Linux Badge](https://img.shields.io/badge/Platform-Linux-green?style=flat&logo=linux)
-[![Task1](https://img.shields.io/badge/Task1-green)](https://github.com/se2024-jpg/hw4-DataWrangling/actions/workflows/task1.yml)
-[![Task2](https://img.shields.io/badge/Task2-green)](https://github.com/se2024-jpg/hw4-DataWrangling/actions/workflows/task2.yml)
-[![Task3](https://img.shields.io/badge/Task3-green)](https://github.com/se2024-jpg/hw4-DataWrangling/actions/workflows/task3.yml)
 
 # HW4-Data Wrangling
 
