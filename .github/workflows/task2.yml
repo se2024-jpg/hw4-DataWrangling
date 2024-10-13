@@ -15,5 +15,4 @@ jobs:
           chmod +x ./tasks/task2a.sh
           chmod +x ./tasks/task2b.sh
           chmod +x ./tasks/task2c.sh
-          chmod +x ./tasks/task2.sh
           ./tasks/task2.sh
